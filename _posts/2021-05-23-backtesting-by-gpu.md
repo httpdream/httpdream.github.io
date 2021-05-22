@@ -1,5 +1,5 @@
 ---
-title: "GPU기반으로 주식/코인 데이터 백테스팅 하기 - 개요"
+title: "GPU기반으로 주식/코인 데이터 백테스팅 하기"
 author: Namhwan Kim
 date: 2021-05-23 00:53:12 -0900
 categories: Quant
@@ -16,4 +16,7 @@ comments: true
 > 주식과 코인등 변동하는 데이터에 대하여 이용
 
 ## 사용 언어 및 환경
-Node.js 기반 GPU.js를 사용한다. Node.js로 로직을 구현하고 프론트엔드로 검증툴을 구현할 예정이다.
+Node.js 기반 GPU.js를 사용한다. Node.js로 로직을 구현하고 프론트엔드로 검증툴을 구현할 예정이다. 
+
+## GPU.js
+[GPU Accelerated JavaScript](https://github.com/gpujs/gpu.js/)
