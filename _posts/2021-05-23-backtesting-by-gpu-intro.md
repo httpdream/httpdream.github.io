@@ -1,5 +1,5 @@
 ---
-title: "GPU기반으로 주식데이터 백테스팅 하기 - 개요"
+title: "GPU기반으로 주식/코인 데이터 백테스팅 하기 - 개요"
 author: Namhwan Kim
 date: 2021-05-23 00:53:12 -0900
 categories: Quant
