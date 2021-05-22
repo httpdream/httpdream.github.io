@@ -95,7 +95,7 @@ social:
     username: httpdream
     url: https://github.com/httpdream
     desc: Follow me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
